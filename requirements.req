@@ -1,0 +1,12 @@
+betfairlightweight
+pandas
+numpy
+pytz
+flask_cors
+flask
+flask_restx
+pymongo
+mongoengine
+flask.scaffold
+Files.com
+websockets
